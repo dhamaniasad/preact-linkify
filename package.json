@@ -1,18 +1,18 @@
 {
-  "name": "react-linkify",
+  "name": "preact-linkify",
   "version": "0.2.2",
-  "description": "React component to parse links (urls, emails, etc.) in text into clickable links",
+  "description": "Preact component to parse links (urls, emails, etc.) in text into clickable links",
   "homepage": "http://tasti.github.io/react-linkify/",
-  "author": "Tasti Zakarie",
+  "author": "Asad Dhamani",
   "license": "MIT",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tasti/react-linkify.git"
+    "url": "https://github.com/dhamaniasad/preact-linkify.git"
   },
   "keywords": [
     "react-linkify",
-    "react",
+    "preact",
     "linkify",
     "react-component",
     "link",

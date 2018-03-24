@@ -1,6 +1,6 @@
 // @flow
 
-import * as React from 'react';
+import * as React from 'preact-compat';
 
 import defaultComponentDecorator from 'decorators/defaultComponentDecorator';
 import defaultHrefDecorator from 'decorators/defaultHrefDecorator';
